@@ -6,10 +6,14 @@ Frontend Developer
 
 I have been designing frontends and doing web development for past 7 years now, For a shorter time worked as a full stack developer also, Although I have worked in different languages like C++, C# etc, but I really like working in JavaScript
 
-*   🌍  I'm based in New Delhi, India
-*   ✉️  You can contact me at [shoaibmohommed@gmail.com](mailto:shoaibmohommed@gmail.com)
-*   🧠  I'm learning Electron
-*   🤝  I'm open to collaborating on some cool React projects### Skills 
+* 🌍  I'm based in New Delhi, India
+* ✉️  You can contact me at [shoaibmohommed@gmail.com](mailto:shoaibmohommed@gmail.com)
+* 🧠  I'm learning Electron
+* 🤝  I'm open to collaborating on some cool React projects
+
+### Skills
+
+
 <p align="left">
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
@@ -25,15 +29,16 @@ I have been designing frontends and doing web development for past 7 years now, 
 <a href="https://graphql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/graphql-colored.svg" width="36" height="36" alt="GraphQL" /></a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
 </p>
-                    
-                  ### Socials
-                  
-                  
-                <p align="left">
-                          
-                      <a href="https://discord.com/users/shoaibmohommed#5117" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>
-                          
-                      <a href="https://www.github.com/shoaibmohommed" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
-                          
-                      <a href="https://www.linkedin.com/in/shoib-mohamad" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>### Badges<b>My GitHub Stats</b><a
-                      href="http://www.github.com/shoaibmohommed"><img src="https://github-readme-stats.vercel.app/api?username=shoaibmohommed&show_icons=true&hide=commits,&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="shoaibmohommed's GitHub stats" /></a><a href="https://github.com/shoaibmohommed" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shoaibmohommed&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+
+### Socials
+
+<p align="left"> <a href="https://discord.com/users/shoaibmohommed#5117" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/shoaibmohommed" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/shoib-mohamad" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+
+### Badges
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/shoaibmohommed"><img src="https://github-readme-stats.vercel.app/api?username=shoaibmohommed&show_icons=true&hide=commits,&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="shoaibmohommed's GitHub stats" /></a>
+
+<a href="https://github.com/shoaibmohommed" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shoaibmohommed&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
