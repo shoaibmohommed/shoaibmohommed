@@ -4,12 +4,12 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Frontend Developer
 ------------------
 
-I have been designing frontends and doing web development for past 7 years now, For a shorter time worked as a full stack developer also, Although I have worked in different languages like C++, C# etc, but I really like working in JavaScript
+I have been designing frontends and doing web development for past 10 years now, For a shorter time worked as a full stack developer also, Although I have worked in different languages like C++, C# etc, but I really like working in JavaScript
 
 * 🌍  I'm based in New Delhi, India
 * ✉️  You can contact me at [shoaibmohommed@gmail.com](mailto:shoaibmohommed@gmail.com)
 * 🧠  I'm learning Electron
-* 🤝  I'm open to collaborating on some cool React projects
+* 🤝  I'm open to collaborating on some cool projects
 
 ### Skills
 
